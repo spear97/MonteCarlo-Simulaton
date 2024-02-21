@@ -22,7 +22,6 @@ Overall, Monte Carlo methods are a powerful and versatile tool for solving probl
 ## Figures
 
 ### Figure 1
-![Figure_1](https://github.com/spear97/MonteCarlo-Python/assets/72108425/8ed060ef-20bf-4728-8902-9cf77c8ac007)
 
 | Return | Ending Value |                    
 | -------- | -------- |                                 
@@ -58,7 +57,6 @@ Overall, Monte Carlo methods are a powerful and versatile tool for solving probl
 | 0.0657    | $1,989,017.62   |
    
 ### Figure 2
-![Figure_2](https://github.com/spear97/MonteCarlo-Python/assets/72108425/4c0ecb79-6e7a-44f7-b23b-c41b07d8afbf)
 
 Count:  5000
 
