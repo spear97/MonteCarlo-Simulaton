@@ -9,12 +9,6 @@
 ## Description
 This project was created for the Programming Language Concepts Class, where the assignment was to develop a Monte Carlo Simulation using Python. The implementation was done using Python, Visual Studio, along with libraries such as NumPy, Pandas, and Matplotlib. The main purpose of this program is to generate figures that plot the results of compound interest for a given amount and show how they evolve over time.
 
-## Application
-The application allows users to input the desired length of the password and generates a random password accordingly. Here's how the application works:
-- Users input the desired length of the password.
-- If the input is valid (between 8 and 16 characters), the application generates a random password.
-- If the input is invalid (less than 8 characters or more than 16 characters), an error message is displayed.
-
 ## What is Monte Carlo?
 Monte Carlo is a computational method that utilizes sampling and statistical techniques to solve problems and make predictions. It is predominantly used in various fields such as mathematics, physics, engineering, economics, finance, and computer science.
 
